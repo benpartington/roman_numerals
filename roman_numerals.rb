@@ -1,7 +1,3 @@
-require './roman_numerals'
-
-describe 'roman_numerals' do
-  it '' do
-    expect
-  end
+def roman_numerals(numeral)
+  1
 end

@@ -1,3 +1,7 @@
 def roman_numerals(numeral)
-  1
+  if numeral == 'I'
+    1
+  elsif numeral = 'V'
+    5
+  end
 end
